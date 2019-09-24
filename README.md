@@ -28,7 +28,7 @@ Please follow bert-as-service’s github link for details (https://github.com/ha
 
 Step 7: Download ElasticSearch
 
-Step 8: Download ngrok
+Step 8: Download ngrok (follow https://ngrok.com/download)
 
 Step 9: Once all the setup is done, follow the starting eaglebot server file 
 (https://docs.google.com/document/d/1RIbsYnRU13YSHT-TGICgG5st35neuZHoEtdS5asIcyA/edit)
