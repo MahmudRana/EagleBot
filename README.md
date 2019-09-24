@@ -6,9 +6,9 @@ Step 1: Download the code from https://drive.google.com/drive/folders/1qj-Ye6C9P
 
 Step 2: Install anaconda3 with python 3 (64 bit version) (https://askubuntu.com/questions/505919/how-to-install-anaconda-on-ubuntu) by running these command below
 
-######wget https://repo.anaconda.com/archive/Anaconda3-5.3.1-Linux-x86_64.sh
-######bash Anaconda3-5.3.1-Linux-x86_64.sh
-######source ~/.bashrc
+##wget https://repo.anaconda.com/archive/Anaconda3-5.3.1-Linux-x86_64.sh
+##bash Anaconda3-5.3.1-Linux-x86_64.sh
+##source ~/.bashrc
 
 Step 3: Creating a python 3.7 conda environment by using the command below 
 **conda create -n python3.7 python=3.7** 
