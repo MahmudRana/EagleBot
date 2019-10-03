@@ -26,11 +26,15 @@ Step 6: Start Bert-serving-server by running
 (after model_dir put the bert model address)
 Please follow bert-as-service’s github link for details (https://github.com/hanxiao/bert-as-service)
 
-Step 7: Download ElasticSearch
+Step 7: Download ElasticSearch (Follow the installation steps on https://www.elastic.co/downloads/elasticsearch)
 
-Step 8: Download ngrok (follow https://ngrok.com/download)
+Step 8: Download ngrok (follow https://ngrok.com/download) [Look at the authtoken issue for larger timeout]
 
-Step 9: Once all the setup is done, follow the starting eaglebot server file 
+Step 9: Downlaod MongoDB (follow https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-18-04)
+
+Step 10: Few Change on Codes (Change BERT Faq script, Upload files into elasticsearch server)
+
+Step 11: Once all the setup is done, follow the starting eaglebot server file 
 (https://docs.google.com/document/d/1RIbsYnRU13YSHT-TGICgG5st35neuZHoEtdS5asIcyA/edit)
 
 
